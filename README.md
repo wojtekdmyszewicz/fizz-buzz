@@ -1,4 +1,4 @@
-# FizzBuzz - your name 
+# NameBuzz
 
 For multiples of 3 print your name
 
